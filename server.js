@@ -26,8 +26,6 @@ app.get('*', (req, res)=>{
   res.send('Invalid Route: 404')
  })
 
-
-
 // Listener
 app.listen(PORT, () => {
   console.log(`Server listening on port: ${PORT}`);
