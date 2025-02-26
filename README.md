@@ -50,7 +50,9 @@ Add books: user can add the books to the database.
 ## <a name="Design"></a>Design
 * My Kids love to read books, from that i had the idea to build the bookstore app called BookNest. Ex: Design elements implemented using HTML5 and CSS3. 
 
-##Images used
+## ERD Images & DB Structure
+* Embeded ERD Images
+* <img src="./images/Schema.jpg" alt="Schema">
 * <img src="https://media0.giphy.com/media/1wQtkhfeLxIaRMsRcy/source.gif" alt="Logo" />
 * <img src="https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-400%2F1523-1%2F%257BA2A9BABA-C565-474A-BDD3-1D02A8E13213%257DIMG400.JPG" alt="book1" />
 * <img src= "https://ic.od-cdn.com/resize?type=auto&width=536&quality=80&force=true&height=715&url=%2FImageType-400%2F1523-1%2F%257BD29CC053-29CE-4E90-9596-61DA1F2F555D%257DIMG400.JPG" alt="book2" />
