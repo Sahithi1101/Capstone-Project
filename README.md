@@ -2,8 +2,7 @@
 BookNest
 
 ##BackEnd repository link
-[Github.com] (https://github.com/Sahithi1101/Capstone-Project-BE)-BackEnd
-
+[Github.com] (https://github.com/Sahithi1101/Capstone-Project-FE)-FrontEnd.
 
 #### INSERT 1 SENTANCE SUMMARY OF YOUR APPLICATION
 The bookstore app is a digital platform for browsing, searching and adding books. 
