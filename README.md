@@ -94,4 +94,6 @@ available: { type: Boolean, required: true },
 I build applications and mini projects tied to my various interests. I look for creative solutions to real world problems and think of technical ways to address them. While no application is ever perfect I find joy in the process and all my final products!
 
 ## Special Mention: Supporters of the build
-* Swetha Malasani [LinkedIn](https://www.linkedin.com/in/swetha-malasani-943652338/)
+* Swetha Malasani
+* [LinkedIn]
+*            (https://www.linkedin.com/in/swetha-malasani-943652338/)
