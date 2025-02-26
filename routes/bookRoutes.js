@@ -4,11 +4,11 @@ const router = express.Router();
 
 
 router
-  .route('/book')
+  .route('/')
   .post(bookCTRL.createBook)
   .get(bookCTRL.getAllBooks);
 router
-  .route('/book/:id')
+  .route('/:id')
   .get(bookCTRL.getBook)
   .put(bookCTRL.updateBook)
   .delete(bookCTRL.deleteBook);
