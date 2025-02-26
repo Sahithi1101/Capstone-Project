@@ -21,7 +21,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json({ extended: true }));
 
 // Routes
-app.use('/api', bookRoutes);
+app.use('/api/book', bookRoutes);
 app.get('*', (req, res)=>{
   res.send('Invalid Route: 404')
  })
