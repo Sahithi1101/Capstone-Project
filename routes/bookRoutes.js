@@ -14,8 +14,8 @@ router
   .delete(bookCTRL.deleteBook);
  
 
-  router.get('*', (req, res)=>{
-    res.send('Invalid Route: 404')
+router.get('*', (req, res)=>{
+  res.send('Invalid Route: 404')
 })
 
 export default router;
